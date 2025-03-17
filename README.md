@@ -80,9 +80,9 @@ Build the application for production using the standard Next.js build command.
 The application is configured for easy deployment on Vercel:
 
 1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Configure environment variables in the Vercel dashboard
-4. Deploy
+2. Connect your repository to netlify
+3. Configure environment variables in the netlify dashboard
+4. Deploy Link : 
 
 ##  API Integrations
 
@@ -181,10 +181,6 @@ The application is configured for easy deployment on Vercel:
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
-
-##  License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##  Acknowledgements
 
