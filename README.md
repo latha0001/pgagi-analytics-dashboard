@@ -1,6 +1,8 @@
 # Comprehensive Analytics Dashboard
 
 A high-performance, interactive analytics dashboard built with Next.js, React, TypeScript, and Tailwind CSS that integrates multiple data sources and features advanced animations.
+![Screenshot 2025-03-17 132011](https://github.com/user-attachments/assets/046b0a2a-b6d8-43d8-8794-1ea8fbedd0e6)
+
 
 
 
