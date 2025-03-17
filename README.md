@@ -9,8 +9,13 @@ A high-performance, interactive analytics dashboard built with Next.js, React, T
 ![Screenshot 2025-03-17 132057](https://github.com/user-attachments/assets/ac7a4b49-3715-49e4-a6ac-98f2590f0977)
 ![Screenshot 2025-03-17 132105](https://github.com/user-attachments/assets/8d764b9a-a03e-4d05-9196-4a23b32b3c36)
 ![Screenshot 2025-03-17 132131](https://github.com/user-attachments/assets/da7296ec-a563-42a5-b2a6-334fef797b29)
-
-
+![Screenshot 2025-03-17 132215](https://github.com/user-attachments/assets/7534c01d-ce98-4316-8334-d61b2e60c4ce)
+![Screenshot 2025-03-17 132241](https://github.com/user-attachments/assets/d6e854f5-0296-42df-aa7f-9cf33601af9b)
+![Screenshot 2025-03-17 132313](https://github.com/user-attachments/assets/9c1c5c67-1ef4-4f1e-9219-7f87c8467878)
+![Screenshot 2025-03-17 132320](https://github.com/user-attachments/assets/dc42cefb-5653-484f-8b6b-ce5c8a06089a)
+![Screenshot 2025-03-17 132329](https://github.com/user-attachments/assets/25949ed4-b587-4752-996a-3954514a9d18)
+![Screenshot 2025-03-17 132336](https://github.com/user-attachments/assets/bda9a087-891e-4c99-964a-7c398b65630e)
+![Screenshot 2025-03-17 132346](https://github.com/user-attachments/assets/6ddb1ae7-2c07-43f5-a803-2d792078d031)
 
 
 ## Features
