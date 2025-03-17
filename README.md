@@ -2,6 +2,13 @@
 
 A high-performance, interactive analytics dashboard built with Next.js, React, TypeScript, and Tailwind CSS that integrates multiple data sources and features advanced animations.
 ![Screenshot 2025-03-17 132011](https://github.com/user-attachments/assets/046b0a2a-b6d8-43d8-8794-1ea8fbedd0e6)
+![Screenshot 2025-03-17 132018](https://github.com/user-attachments/assets/83a588a4-4c98-4d71-813c-efccf11f6e5d)
+![Screenshot 2025-03-17 132025](https://github.com/user-attachments/assets/2085f313-db98-47f2-9859-f76591601f77)
+![Screenshot 2025-03-17 132032](https://github.com/user-attachments/assets/e49c6920-5bb3-41fa-991f-96d39fc8555b)
+![Screenshot 2025-03-17 132038](https://github.com/user-attachments/assets/ce36c50f-71c2-435c-bb5e-fa0e84825db4)
+![Screenshot 2025-03-17 132057](https://github.com/user-attachments/assets/ac7a4b49-3715-49e4-a6ac-98f2590f0977)
+![Screenshot 2025-03-17 132105](https://github.com/user-attachments/assets/8d764b9a-a03e-4d05-9196-4a23b32b3c36)
+![Screenshot 2025-03-17 132131](https://github.com/user-attachments/assets/da7296ec-a563-42a5-b2a6-334fef797b29)
 
 
 
