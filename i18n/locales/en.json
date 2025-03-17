@@ -1,0 +1,80 @@
+{
+  "dashboard": {
+    "title": "Analytics Dashboard",
+    "search": "Search...",
+    "theme": {
+      "toggle": "Toggle theme"
+    },
+    "notifications": "Notifications",
+    "user": {
+      "menu": "User menu",
+      "profile": "Profile",
+      "settings": "Settings",
+      "logout": "Logout"
+    }
+  },
+  "widgets": {
+    "weather": {
+      "title": "Weather",
+      "description": "Current conditions and forecast",
+      "searchPlaceholder": "Search location...",
+      "humidity": "Humidity",
+      "wind": "Wind",
+      "forecast": "7-Day Forecast",
+      "noData": "No weather data available"
+    },
+    "news": {
+      "title": "Latest News",
+      "description": "Stay updated with the latest headlines",
+      "readMore": "Read more",
+      "noData": "No news data available"
+    },
+    "finance": {
+      "title": "Finance",
+      "description": "Stock market data and trends",
+      "searchPlaceholder": "Search stock symbol...",
+      "dayRange": "Day Range",
+      "volume": "Volume",
+      "marketCap": "Market Cap",
+      "watchlist": "Watchlist",
+      "addToWatchlist": "Add to Watchlist",
+      "inWatchlist": "In Watchlist",
+      "noData": "No stock data available"
+    },
+    "realTime": {
+      "title": "Real-Time Data",
+      "description": "Live updates and notifications",
+      "liveChart": "Live Chart",
+      "notifications": "Notifications",
+      "connected": "Connected",
+      "disconnected": "Disconnected",
+      "waitingForData": "Waiting for data...",
+      "noNotifications": "No notifications yet"
+    },
+    "globe": {
+      "title": "Global Data Visualization",
+      "description": "Interactive 3D globe showing key metrics by location"
+    }
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "weather": "Weather",
+    "news": "News",
+    "finance": "Finance",
+    "settings": "Settings"
+  },
+  "auth": {
+    "signIn": {
+      "title": "Sign in",
+      "description": "Enter your credentials to access your dashboard",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "button": "Sign in",
+      "signingIn": "Signing in...",
+      "or": "Or continue with",
+      "noAccount": "Don't have an account? Sign up"
+    }
+  }
+}
+

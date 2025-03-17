@@ -1,0 +1,80 @@
+{
+  "dashboard": {
+    "title": "Panel de Análisis",
+    "search": "Buscar...",
+    "theme": {
+      "toggle": "Cambiar tema"
+    },
+    "notifications": "Notificaciones",
+    "user": {
+      "menu": "Menú de usuario",
+      "profile": "Perfil",
+      "settings": "Configuración",
+      "logout": "Cerrar sesión"
+    }
+  },
+  "widgets": {
+    "weather": {
+      "title": "Clima",
+      "description": "Condiciones actuales y pronóstico",
+      "searchPlaceholder": "Buscar ubicación...",
+      "humidity": "Humedad",
+      "wind": "Viento",
+      "forecast": "Pronóstico de 7 días",
+      "noData": "No hay datos climáticos disponibles"
+    },
+    "news": {
+      "title": "Últimas Noticias",
+      "description": "Mantente actualizado con los últimos titulares",
+      "readMore": "Leer más",
+      "noData": "No hay noticias disponibles"
+    },
+    "finance": {
+      "title": "Finanzas",
+      "description": "Datos del mercado de valores y tendencias",
+      "searchPlaceholder": "Buscar símbolo de acción...",
+      "dayRange": "Rango del día",
+      "volume": "Volumen",
+      "marketCap": "Cap. de Mercado",
+      "watchlist": "Lista de seguimiento",
+      "addToWatchlist": "Añadir a la lista",
+      "inWatchlist": "En la lista",
+      "noData": "No hay datos de acciones disponibles"
+    },
+    "realTime": {
+      "title": "Datos en Tiempo Real",
+      "description": "Actualizaciones en vivo y notificaciones",
+      "liveChart": "Gráfico en vivo",
+      "notifications": "Notificaciones",
+      "connected": "Conectado",
+      "disconnected": "Desconectado",
+      "waitingForData": "Esperando datos...",
+      "noNotifications": "No hay notificaciones aún"
+    },
+    "globe": {
+      "title": "Visualización de Datos Globales",
+      "description": "Globo 3D interactivo que muestra métricas clave por ubicación"
+    }
+  },
+  "sidebar": {
+    "dashboard": "Panel",
+    "weather": "Clima",
+    "news": "Noticias",
+    "finance": "Finanzas",
+    "settings": "Configuración"
+  },
+  "auth": {
+    "signIn": {
+      "title": "Iniciar sesión",
+      "description": "Ingresa tus credenciales para acceder a tu panel",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "button": "Iniciar sesión",
+      "signingIn": "Iniciando sesión...",
+      "or": "O continuar con",
+      "noAccount": "¿No tienes una cuenta? Regístrate"
+    }
+  }
+}
+
